@@ -1,2 +1,2 @@
-# reponsive191226
-반응형 웹 workout
+# 반응형 브랜드홈페이지 제작
+티 편집숍 TEA pa TEA 홈페이지 제작 프로젝트 
